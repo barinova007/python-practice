@@ -20,8 +20,14 @@ message = '58
 10//3
 ```
 ## Разметка:
+чтобы это определить:
+```
+lenochka_1 = 10
+# print (type (lenochka_1), lenochka_1)
+```
+
 +  INT - целые числа
-+  FLOAT - вещественные числа
++  FLOAT - число с плавющей запятой
 +  STR - строковый тип
 +  BOOL - логический тип
 
@@ -163,6 +169,9 @@ print (names [1])
 ```
 
 
+import math - импортнуть библиотеку с мат.ф
+mm = math.sqrt(49))
+print (mm, type (mm))
 
 
 
