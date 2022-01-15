@@ -1,6 +1,7 @@
- [![python]()](https://www.youtube.com/watch?v=aKNvlXmxpYA&ab_channel=QALenaBarinova) 
+ [![python](https://github.com/barinova007/python-practice/blob/main/lesson_2/Screenshot_10.jpg?raw=true)](https://www.youtube.com/watch?v=aKNvlXmxpYA&ab_channel=QALenaBarinova) 
  
 ===
+
 Arithmetic
 
  1. Создать переменную item_1 типа integer.
