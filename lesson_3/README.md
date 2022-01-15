@@ -1,7 +1,6 @@
  [![python](https://github.com/barinova007/python-practice/blob/main/lesson_2/Screenshot_10.jpg?raw=true)](https://www.youtube.com/watch?v=aKNvlXmxpYA&ab_channel=QALenaBarinova) 
  
-===
-
+___
 Python HW 3 if else elif
 
  1. Создать переменную int_item со значением 10
