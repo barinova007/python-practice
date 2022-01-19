@@ -1,4 +1,4 @@
- [![python](https://github.com/barinova007/python-practice/blob/main/lesson_2/Screenshot_10.jpg?raw=true)]() 
+ [![python](https://github.com/barinova007/python-practice/blob/main/lesson_2/Screenshot_10.jpg?raw=true)](https://www.youtube.com/watch?v=0OIwpNVuX7I) 
  
 ___
 ## Python if else elif
