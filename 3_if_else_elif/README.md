@@ -1,7 +1,7 @@
 [![python](https://github.com/barinova007/python-practice/blob/main/2_arithmetic/Screenshot_10.jpg?raw=true)](https://www.youtube.com/watch?v=0OIwpNVuX7I&ab_channel=QALenaBarinova) 
 ===
 ## Python if else elif
-
+```
  1. Создать переменную int_item со значением 10
  2. Создать переменную comp_item со значением 18
  3. Создать переменную mult_int в которй умножите int_item на 2
@@ -56,3 +56,4 @@
  31.6 Сделать elif с остальными валютами
 …
  31.7 Последним оставить else, при выполнений которого в консоль выведется (“Unknow currency”)
+```
