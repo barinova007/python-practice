@@ -1,9 +1,7 @@
  [![python](https://github.com/barinova007/python-practice/blob/main/2_arithmetic/Screenshot_10.jpg?raw=true)](https://www.youtube.com/watch?v=aKNvlXmxpYA&ab_channel=QALenaBarinova) 
  
-===
-
 Arithmetic
-
+```
  1. Создать переменную item_1 типа integer.
  2. Создать переменную item_2 типа integer.
  3. Создать переменную result_sum в которой вы суммируете item_1 и item_2.
@@ -71,3 +69,4 @@ Boolean
  59. Вывести b_item_1_int в консоль.
  60. Создать переменную b_item_2_int и присвоить явное приведение b_item_2 к int 
  61. Вывести b_item_2_int в консоль.
+```
