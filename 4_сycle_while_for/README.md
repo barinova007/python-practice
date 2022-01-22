@@ -2,7 +2,7 @@
   [![python](https://github.com/barinova007/python-practice/blob/main/lesson_2_arithmetic/Screenshot_10.jpg?raw=true)](https://www.youtube.com/watch?v=yUpuBjnoHYI&ab_channel=QALenaBarinova) 
 ===
 ## Python HW 4 Cycle
-
+```
 Циклы While
 Создать переменную count со значением 0
 Создать переменную range_count со значением 10
@@ -63,3 +63,4 @@
 		-- Вывести в консоль (‘-------- Inner_Step =’, inner_item)
 		-- Сделать if если inner_item равен 5, то в inner_count присвоить inner_item.
 	- За пределами тела предыдущего цикла вывести в консоль (‘-- inner_count =’, inner_count)
+```
