@@ -11,7 +11,7 @@
 #     3. Валюту пользователя определите сами.
 
 your_money = float(input())
-convert_USD = your_money / 72.88
+convert_USD = your_money / 30.10
 convert_EUR = your_money / 85.46
 convert_CHF = your_money / 78.18
 convert_GBP = your_money / 100.14
