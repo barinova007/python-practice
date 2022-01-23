@@ -19,7 +19,7 @@
 
 def main():
     your_money = input_func()
-    convert_usd = your_money / 72.88
+    convert_usd = your_money / 30.10
     convert_eur = your_money / 85.46
     convert_chf = your_money / 78.18
     convert_gbp = your_money / 100.14
@@ -34,11 +34,11 @@ def main():
 
 
 def input_func():
-    your_money = int(input('Введите количество RUB: '))
+    your_money = int(input('Введите количество UAH: '))
     if your_money <= 0:
         print('Введите положительное число.')
         while True:
-            your_money = input('Введите количество RUB: ').strip()
+            your_money = input('Введите количество UAH: ').strip()
             if your_money.isdigit():
                 your_money = int(your_money)
                 break
