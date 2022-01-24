@@ -169,7 +169,7 @@ print (names [1])
 ```
 
 
-import math - импортнуть библиотеку с мат.ф
+import math - импортнуть библиотеку с мат.ф-ций
 mm = math.sqrt(49))
 print (mm, type (mm))
 
