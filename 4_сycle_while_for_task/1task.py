@@ -8,6 +8,6 @@
 
 your_money = float(input())
     convert_money = your_money / 30.10
-    print('Ты ввёл ', your_money, 'RUB')
+    print('Ты ввёл ', your_money, 'UAH')
     print('конвертированная сумма в USD = ', round(convert_money, 2))
 
