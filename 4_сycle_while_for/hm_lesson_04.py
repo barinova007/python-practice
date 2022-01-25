@@ -14,9 +14,9 @@ run = True
 # Сделать цикл while который будет работать пока run
 # Тело цикла:
 # 	5.1 Выводить в консоль “Hello Cycle”
-# while run:
-#     print("Hello Cycle")
-#     time.sleep(0.8)
+ while run:
+    print("Hello Cycle")
+     time.sleep(0.8)
 
 # Сделать цикл while который будет работать пока run
 # Тело цикла:
@@ -24,30 +24,30 @@ run = True
 # 	6.2 Переменной count прибавлять 1 с присвоением.
 
 # while run:
-#     print("Step =", count)
-#     count += 1
-#     time.sleep(0.8)
+     print("Step =", count)
+     count += 1
+     time.sleep(0.8)
 
 # Сделать цикл while который будет работать пока count < range_count
 # Тело цикла:
 # 	7.1 Выводить в консоль (“Step =”, count)
 # 	7.2 Переменной count прибавлять 1 с присвоением.
 
-# while count < range_count:
-#     print("Step =", count)
-#     count += 1
+ while count < range_count:
+     print("Step =", count)
+     count += 1
 
 # Сделать цикл while который будет работать пока count < range_count
 # Тело цикла:
 # 	8.1 Выводить в консоль (“Step =”, count)
 # 	8.2 Переменной count прибавлять 1 с присвоением.
-# 	8.3 Сделать if с условием, если count равен 3 то выводить в консоль (“Step =”, count, ‘If body’)
+#	8.3 Сделать if с условием, если count равен 3 то выводить в консоль (“Step =”, count, ‘If body’)
 
-# while count < range_count:
-#     print("Step =", count)
-#     count += 1
-#     if count == 3:
-#         print("Step =", count, "If body")
+ while count < range_count:
+     print("Step =", count)
+     count += 1
+     if count == 3:
+        print("Step =", count, "If body")
 
 # Сделать цикл while который будет работать пока run
 # Тело цикла:
@@ -56,19 +56,19 @@ run = True
 # 	9.2 Сделать if с условием, если count равен range_count то цикл остановится.
 # 	9.3 В теле if вывести в консоль (“STOP”, count)
 
-# while run:
-#     print("Step =", count)
-#     count += 1
-#     if count == range_count:
-#         print("STOP", count)
-#         break
+ while run:
+     print("Step =", count)
+     count += 1
+     if count == range_count:
+        print("STOP", count)
+        break
 # Цилы For
 # Сделать цикл for c переменной item который будет работать пока счётчик range досчитает от for_count  до range_count
 # Тело цикла:
 # 10.1 Вывести в консоль (‘Step =’, item)
 
-# for item in range(for_count,range_count):
-#     print("Step =", item)
+ for item in range(for_count,range_count):
+     print("Step =", item)
 
 # Сделать цикл for c переменной item который будет работать пока счётчик range досчитает от 0 до 30
 # Тело цикла:
@@ -79,16 +79,16 @@ run = True
 # 11.5 Сделать if с условием, если item больше или равно 27, то вывести в консоль (‘Item >=’, item).
 
 
-# for item in range (0, 30):
-#     print("Step =", item)
-#     if item == 5:
-#         print("Item =", item)
-#     if item == 10:
-#         print("Item =", item)
-#     if item < 4:
-#         print("Item <", item)
-#     if item >= 27:
-#         print("Item >=", item)
+ for item in range (0, 30):
+     print("Step =", item)
+     if item == 5:
+         print("Item =", item)
+     if item == 10:
+         print("Item =", item)
+     if item < 4:
+         print("Item <", item)
+    if item >= 27:
+         print("Item >=", item)
 
 # Сделать цикл for c переменной item который будет работать пока счётчик range досчитает от 0 до range_count +1
 # Тело цикла:
@@ -102,16 +102,16 @@ run = True
 # 		-- Сделать if если inner_item равен 5, то в inner_count присвоить inner_item.
 # 	- За пределами тела предыдущего цикла вывести в консоль (‘-- inner_count =’, inner_count)
 
-# for item in range ( 0, range_count, +1):
-#     print("Step =", item)
-#     if item == 7:
-#         inner_count = 0
-#         print("-- inner_count =", inner_count)
-#         for inner_item in range(0, item):
-#             print ("-------- Inner_Step =", inner_item)
-#             if inner_item == 5:
-#                 inner_count = inner_item
-#         print("-- inner_count =", inner_count)
+ for item in range ( 0, range_count, +1):
+     print("Step =", item)
+     if item == 7:
+         inner_count = 0
+         print("-- inner_count =", inner_count)
+         for inner_item in range(0, item):
+ print ("-------- Inner_Step =", inner_item)
+             if inner_item == 5:
+                 inner_count = inner_item
+         print("-- inner_count =", inner_count)
 
 #13.Сделать цикл for c переменной item который будет работать пока счётчик range досчитает от 0 до 20
 # Тело цикла:
