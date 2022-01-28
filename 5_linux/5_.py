@@ -7,6 +7,7 @@ parser.add_argument('--age', type=str)
 
 args = parser.parse_args()
 print("Name")
+<<<<<<< HEAD
 
 
 
@@ -38,3 +39,5 @@ while True:
         file_txt.write(result_str)
 
     time.sleep(0.5)
+=======
+>>>>>>> 238b06661e09d9fbd585980d599b661681f67122
