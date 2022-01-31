@@ -236,7 +236,48 @@ ___________
 Считаем элементы списка: letter[0]=x letter[1]=y letter[2]=z insert (1,’w’) значит вместо [1] элемента встанет w,
 а y встанет [2] letter[0]=x letter[1]=w letter[2]=y letter[3]=z Ответ: y
 
+list = [1, 2, 3]
+for var in list:
+print(var)
+____________________________________
+Задачка:
 
+Данный код решает проблему FizzBuzz и использует слова «Solo» и «Learn» вместо «Fizz» и «Buzz».
+Он принимает на вход n и выводит числа от 1 до n.
+Для каждого числа, кратного 3, вместо числа выведите «Соло».
+Для каждого числа, кратного 5, печатает «Learn» вместо числа.
+Для чисел, кратных как 3, так и 5, выведите «SoloLearn».
+Вам нужно изменить код, чтобы пропустить четные числа, чтобы логика применялась только к нечетным числам в диапазоне.
+
+
+n = int(input())
+for x in range(1, n):
+    if x % 3 == 0 and x % 5 == 0:
+        print("SoloLearn")
+    elif x % 3 == 0:
+        print("Solo")
+    elif x % 5 == 0:
+        print("Learn")
+    else:
+        print(x)
+_____________________________        
+        
+n = int(input())
+for x in range(1, n,2):
+    if x % 3 == 0 and x % 5 == 0:
+        print("SoloLearn")
+        continue
+    elif x % 3 == 0:
+        print("Solo")
+        continue
+    elif x % 5 == 0:
+        print("Learn")
+        continue
+    else:
+        print(x)
+        
+        
+        
 ```
 
 
