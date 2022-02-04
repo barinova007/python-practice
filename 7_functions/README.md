@@ -1,3 +1,7 @@
+[![python](https://github.com/barinova007/python-practice/blob/main/2_arithmetic/Screenshot_10.jpg?raw=true)](https://youtu.be/PpgROf6rDXw) 
+
+
+
 ```
 Functions
 def - вызвать функцию
