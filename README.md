@@ -1,5 +1,5 @@
 # python-practice
-## [My playlist](https://www.youtube.com/playlist?list=PLi7THDBnHl-vHxeUdsLnAH3u19ytlxX0W)
+## [My playlist on youtube python. Click](https://www.youtube.com/playlist?list=PLi7THDBnHl-vHxeUdsLnAH3u19ytlxX0W)
 
 
 ```
@@ -282,49 +282,5 @@ for x in range(1, n,2):
 ```
 
 Повторное использование кода: функции и модули.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
