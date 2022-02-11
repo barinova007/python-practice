@@ -1,4 +1,7 @@
 # python-practice
+## [My playlist](https://www.youtube.com/playlist?list=PLi7THDBnHl-vHxeUdsLnAH3u19ytlxX0W)
+
+
 ```
 Web-разработка
 ИИ Машинное обучение
