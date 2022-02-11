@@ -1,5 +1,5 @@
 # python-practice
-## [My playlist on youtube python. Click](https://www.youtube.com/playlist?list=PLi7THDBnHl-vHxeUdsLnAH3u19ytlxX0W)
+## [My playlist on Youtube Python. Click](https://www.youtube.com/playlist?list=PLi7THDBnHl-vHxeUdsLnAH3u19ytlxX0W)
 
 
 ```
