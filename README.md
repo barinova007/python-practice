@@ -1,4 +1,7 @@
 # python-practice
+## [My playlist on Youtube Python. Click](https://www.youtube.com/playlist?list=PLi7THDBnHl-vHxeUdsLnAH3u19ytlxX0W)
+
+
 ```
 Web-разработка
 ИИ Машинное обучение
@@ -279,49 +282,5 @@ for x in range(1, n,2):
 ```
 
 Повторное использование кода: функции и модули.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
