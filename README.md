@@ -1,5 +1,6 @@
 # python-practice
 ## [My playlist on [Youtube] Python. Click](https://www.youtube.com/playlist?list=PLi7THDBnHl-vHxeUdsLnAH3u19ytlxX0W)
+## https://www.youtube.com/channel/UCx4WUz9AuYbssUif4C2JFOA - Иван Викторович
 
 
 ```
